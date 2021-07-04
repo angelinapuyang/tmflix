@@ -1,0 +1,13 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.section{
+    padding-top: 28px;
+    padding-bottom: 48px;
+}
+
+.heading{
+    font-size: 24px;
+    font-weight: 700;
+}
